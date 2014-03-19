@@ -1,0 +1,4 @@
+{
+  "name": "gamestats",
+  "parts": ["express", "mongo", "angular", "stylus"]
+}
